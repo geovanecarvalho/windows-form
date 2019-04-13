@@ -1,0 +1,10 @@
+C:\Users\geova\OneDrive\Área de Trabalho\Geotec\Geotec\bin\Debug\Geotec.exe.config
+C:\Users\geova\OneDrive\Área de Trabalho\Geotec\Geotec\bin\Debug\Geotec.exe
+C:\Users\geova\OneDrive\Área de Trabalho\Geotec\Geotec\bin\Debug\Geotec.pdb
+C:\Users\geova\OneDrive\Área de Trabalho\Geotec\Geotec\obj\Debug\Geotec.csprojAssemblyReference.cache
+C:\Users\geova\OneDrive\Área de Trabalho\Geotec\Geotec\obj\Debug\Geotec.frmGeotec.resources
+C:\Users\geova\OneDrive\Área de Trabalho\Geotec\Geotec\obj\Debug\Geotec.Properties.Resources.resources
+C:\Users\geova\OneDrive\Área de Trabalho\Geotec\Geotec\obj\Debug\Geotec.csproj.GenerateResource.cache
+C:\Users\geova\OneDrive\Área de Trabalho\Geotec\Geotec\obj\Debug\Geotec.csproj.CoreCompileInputs.cache
+C:\Users\geova\OneDrive\Área de Trabalho\Geotec\Geotec\obj\Debug\Geotec.exe
+C:\Users\geova\OneDrive\Área de Trabalho\Geotec\Geotec\obj\Debug\Geotec.pdb
